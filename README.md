@@ -52,7 +52,6 @@ middle-distance-running-strategy/
 ├── report/
 │ ├── TIPE.pdf # Project presentation slides
 │ └── MCOT.pdf # Project summary form
-├── figures/ # Optional: plots and data visuals
 
 ## 🛠️ Tech Stack
 
