@@ -47,15 +47,10 @@ The optimization uses `scipy.optimize.minimize` with nonlinear constraints:
 ## 📁 Project Structure
 
 middle-distance-running-strategy/
-
 ├── main.py # Python simulation and optimization
-
 ├── README.md # This file
-
 ├── report/
-
 │ ├── TIPE.pdf # Project presentation slides
-
 │ └── MCOT.pdf # Project summary form
 
 ## 🛠️ Tech Stack
