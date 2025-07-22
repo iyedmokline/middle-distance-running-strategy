@@ -18,14 +18,14 @@ Determine how a runner can structure their effort to minimize race time without 
 
 ## 📊 Physiological Parameters (Measured)
 
-| Parameter              | Value           |
-|------------------------|-----------------|
-| Mass \( m \)           | 61 kg           |
-| Initial Energy \( e_0 \) | 1337.5 J/kg    |
-| Max Aerobic Power \( \sigma_{max} \) | 22.05 W/kg |
-| Final Power \( \sigma_f \) | 19.37 W/kg   |
-| Max Force              | 578.6 N         |
-| Max dF/dt              | 186.3 N/s       |
+| Parameter                     | Value        |
+|------------------------------|--------------|
+| Mass (m)                     | 61 kg        |
+| Initial Energy (e₀)          | 1337.5 J/kg  |
+| Max Aerobic Power (sigma max)| 22.05 W/kg   |
+| Final Power (sigma final)    | 19.37 W/kg   |
+| Max Force                    | 578.6 N      |
+| Max dF/dt                    | 186.3 N/s    |
 
 ## ⚙️ Optimization
 
