@@ -75,5 +75,11 @@ middle-distance-running-strategy/
 │   └── MCOT.pdf                     # Project summary form
 ├── LICENSE
 ├── README.md
-└── requirements.txt 
+└── requirements.txt
 
+## 🔧 Installation
+
+To run the code, install the required Python packages:
+
+```bash
+pip install -r requirements.txt
