@@ -74,5 +74,6 @@ middle-distance-running-strategy/
 │   ├── TIPE.pdf                     # Final presentation slides
 │   └── MCOT.pdf                     # Project summary form
 ├── LICENSE
-└── README.md
+├── README.md
+└── requirements.txt 
 
