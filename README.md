@@ -1,6 +1,6 @@
 # 🏃 Middle-Distance Running: The Keys to a Winning Strategy
 
-This project explores mathematical modeling and optimization of a 1500-meter running strategy using real physiological data and Python simulation. The work is inspired by models from Keller, Aftalion, and Bonnans, and was developed during my final year in CPGE (MP option SI track, 2023–2024).
+This project explores mathematical modeling and optimization of a 1500-meter running strategy using real physiological data and Python simulation. The work is inspired by models from Keller, Aftalion, and Bonnans, and was developed during my final year in CPGE (MP option SI track, 2023/2024).
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
