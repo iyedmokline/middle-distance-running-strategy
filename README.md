@@ -16,7 +16,7 @@ All physiological parameters used in this model are based on data from elite Tun
 
 > The collaboration ensured high-quality data on VO₂ max, maximum force, and anaerobic capacity under real training conditions.
 
-His coach, [**Sofiane Labidi**](https://fr.wikipedia.org/wiki/Sofiane_Labidi) — 20-time Tunisian national champion in the 400m — directly contributed to the validation of the pacing strategy and interpretation of performance metrics.
+His coach, [**Sofiane Labidi**](https://fr.wikipedia.org/wiki/Sofiane_Labidi), former elite 400m runner whose national record has stood unbeaten in Tunisia for over 20 years, directly contributed to the validation of the pacing strategy and interpretation of performance metrics.
 
 ---
 
