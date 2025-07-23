@@ -6,17 +6,17 @@ This project explores mathematical modeling and optimization of a 1500-meter run
 
 ## 🎯 Objective
 
-Determine the optimal pacing profile to minimize 1500m race time without exceeding physiological constraints such as VO2 max, anaerobic capacity, or force generation thresholds.
+Determine the optimal pacing profile to minimize 1500m race time without exceeding physiological constraints such as VO2 max, anaerobic capacity & force generation thresholds.
 
 ---
 
 ## 🧪 Real Athlete Data
 
-All physiological parameters used in the model come from the elite Tunisian middle-distance runner [**Oussama Laajili**](https://worldathletics.org/athletes/tunisia/osama-al-ajili-15036538), collected and validated at the:
+All physiological parameters used in this model are based on data from elite Tunisian middle-distance runner [**Oussama Laajili**](https://worldathletics.org/athletes/tunisia/osama-al-ajili-15036538), collected and validated by the [**Centre National de la Médecine et des Sciences du Sport (CNMSS)**](https://cnmss.tn/), Tunisia’s official institution for elite sport medicine and performance.
 
-> **Centre National de la Médecine et des Sciences du Sport (CNMSS)** – Tunisia  
+> The collaboration ensured high-quality data on VO₂ max, maximum force, and anaerobic capacity under real training conditions.
 
-His coach, [**Sofiane Labidi**](https://fr.wikipedia.org/wiki/Sofiane_Labidi), former Tunisian 400m champion for over 20 years, directly contributed to data interpretation and strategy validation.
+His coach, [**Sofiane Labidi**](https://fr.wikipedia.org/wiki/Sofiane_Labidi) — 20-time Tunisian national champion in the 400m — directly contributed to the validation of the pacing strategy and interpretation of performance metrics.
 
 ---
 
