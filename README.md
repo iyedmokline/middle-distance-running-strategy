@@ -76,6 +76,7 @@ middle-distance-running-strategy/
 ├── LICENSE
 ├── README.md
 └── requirements.txt
+```
 
 ## 🔧 Installation
 
