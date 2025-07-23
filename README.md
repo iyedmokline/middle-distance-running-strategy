@@ -11,10 +11,7 @@ Determine the optimal pacing profile to minimize 1500m race time without exceedi
 ## 🧠 Modeling Principles
 
 - The runner is modeled as a point mass subject to propulsion force and air resistance.
-- Speed is modeled using a sinusoidal pacing strategy:
-
-**V(t) = V₀ + A · sin(ω·t)**
-
+- Speed is modeled using a sinusoidal pacing strategy:  **V(t) = V₀ + A · sin(ω·t)**
 - Both aerobic and anaerobic energy systems are modeled with real physiological dynamics.
 - Energy recovery during deceleration is included, improving on the classic Keller model (based on Aftalion–Fiorini).
 
