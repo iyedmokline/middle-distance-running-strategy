@@ -63,12 +63,13 @@ The optimization problem is solved using `scipy.optimize.minimize` with nonlinea
 
 ```plaintext
 middle-distance-running-strategy/
-├── fig3_simulation.py               # Force and energy dynamics simulation (Figure 3)
-├── fig4_fig5_fig6_simulation.py     # Strategy variation simulations (Figures 4–6)
-├── fig5_simulation.py               # Validation or sensitivity analysis (Figure 5)
-├── fig7_simulation.py               # Anaerobic energy profile analysis (Figure 7)
-├── fig8_simulation.py               # Strategy robustness under constraints (Figure 8)
-├── slide16_illustration.py          # Physiological limit illustration (Slide 16)
+├── src/
+│   ├── fig3_simulation.py              # Force and energy dynamics simulation (Figure 3)
+│   ├── fig4_fig5_fig6_simulation.py    # Strategy variation simulations (Figures 4–6)
+│   ├── fig5_simulation.py              # Validation or sensitivity analysis (Figure 5)
+│   ├── fig7_simulation.py              # Anaerobic energy profile analysis (Figure 7)
+│   ├── fig8_simulation.py              # Strategy robustness under constraints (Figure 8)
+│   └── slide16_illustration.py         # Physiological limit illustration (Slide 16)
 ├── report/
 │   ├── performance_evaluation_ousama_laajili.pdf  # Medical lab results
 │   ├── TIPE.pdf                     # Final presentation slides
